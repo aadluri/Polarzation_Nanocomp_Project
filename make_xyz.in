@@ -1,0 +1,12 @@
+&INPUTPP
+prefix = '442',
+fileout = '442',
+output = 'xyz',
+ndr = 56,
+lcharge = .false.,
+atomic_number(1)=8,
+atomic_number(2)=47,
+atomic_number(3)=12,
+ldynamics = .false.,
+nframes = 1,
+/
