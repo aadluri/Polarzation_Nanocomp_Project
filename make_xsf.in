@@ -1,6 +1,6 @@
 &INPUTPP
-prefix = '442',
-fileout = '442',
+prefix = '$jobname',
+fileout = '$outputfile_name',
 output = 'xsf',
 ndr = 56,
 lcharge = .false.,
